@@ -1,0 +1,9 @@
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\bin\Release\halı.exe
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\bin\Release\halı.pdb
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\bin\Release\MySql.Data.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\obj\x86\Release\WindowsFormsApplication1.yoneticiGiris.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\obj\x86\Release\halı.csproj.GenerateResource.Cache
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\obj\x86\Release\halı.exe
+C:\Users\MSI\documents\visual studio 2010\Projects\halı\halı\obj\x86\Release\halı.pdb
